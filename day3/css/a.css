@@ -1,0 +1,80 @@
+#a{
+	width: 100%;
+	margin: 0px;
+}
+#a>img{
+	width: 100%;	
+	border-radius: 20px;
+}
+*{
+	margin: 0px;
+}
+#aa{
+	display: flex;
+	flex-wrap: wrap;
+}
+#aa>img{
+	width: 20%;
+	border-radius: 20px;
+}
+#a3>#a1{
+	width: 100%;
+}
+#a3>#a1>img{
+	width: 100%;
+}
+#a3{
+	width: 100%;
+}
+#a3>#a2{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+#a3>#a2>div{
+	width: 30%;
+
+}
+#a3>#a2>div>img{
+	width: 100%;
+	border-radius: 20px;
+	
+}
+
+
+
+#a4{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+#a4>#aa1{
+	width: 100%;
+}
+#a4>img{
+	width:23%;
+	border-radius: 20px;
+}
+#q1{
+width: 100%;
+}
+#q1>#b{
+	width: 100%;
+}
+#q1>#b>#q{
+	width: 90%;
+}
+#q1>#b>.aa{
+	width: 33%;
+	border-radius: 10px;
+}
+#q1>#qq{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+#q1>#qq>img{
+	width: 48%;
+	border-radius: 10px;
+}
